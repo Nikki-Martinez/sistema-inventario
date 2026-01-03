@@ -12,26 +12,16 @@
 
 .header {
   grid-area: header;
-  background-color: #4CAF50;
-  color: white;
-  padding: 15px;
-  text-align: center;
 }
 
 .sidebar {
   grid-area: sidebar;
-  background-color: #f4f4f4;
-  padding: 15px;
 }
 
 .main {
   grid-area: main;
-  padding: 15px;
 }
 
 .footer {
   grid-area: footer;
-  background-color: #ddd;
-  text-align: center;
-  padding: 10px;
 }
